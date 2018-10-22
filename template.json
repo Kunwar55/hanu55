@@ -57,7 +57,7 @@
     "adLBBE": "LBBE",
     "adRDPNAT": "adRDP",
     "adNicName": "adNic",
-    "adNicIPAddress": "10.0.0.4",
+    "adNicIPAddress": "172.50.60.24",
     "adVMName": "HanuDC",
     "adSubnetName": "adSubnet",
     "adSubnetAddressPrefix": "172.50.60.0/24",
