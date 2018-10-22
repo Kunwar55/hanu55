@@ -63,7 +63,7 @@
     "adSubnetAddressPrefix": "172.50.60.0/24",
     "publicIPAddressName": "adPublicIP",
     "adAvailabilitySetName": "adAvailabiltySet",
-    "adLBName": "HanuLabs-LB"
+    "adLBName": "HanuLabs-LB3"
   },
   "resources": [
     {
